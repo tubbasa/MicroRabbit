@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{9CCA2D3C-E24C-4396-8BC3-7840C6B244A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infrastructure.IOC/DependencyContainer.cs">
+    <Files>
+      <File FileName="MicroRabbit.Infastructue.Bus/RabbitMQBus.cs" Line="1" Column="1" />
+      <File FileName="MicroRabbit.Domain.Core/Events/Event.cs" Line="1" Column="1" />
+      <File FileName="MicroRabbit.Domain.Core/Bus/IEventBus.cs" Line="1" Column="1" />
+      <File FileName="MicroRabbit.Domain.Core/Bus/IEventHandler.cs" Line="1" Column="1" />
+      <File FileName="MicroRabbit.Infrastructure.IOC/DependencyContainer.cs" Line="27" Column="92" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroRabbit" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="MicroRabbit.Domain.Core" expanded="True">
+                <Node name="Bus" expanded="True" />
+                <Node name="Events" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure.Bus" expanded="True" />
+            <Node name="Infrastructure.IOC" expanded="True">
+              <Node name="MicroRabbit.Infrastructure.IOC" expanded="True">
+                <Node name="DependencyContainer.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MicroServices" expanded="True">
+              <Node name="Banking" expanded="True">
+                <Node name="Data" expanded="True">
+                  <Node name="MicroRabbit.Banking.Data" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MicroServices.Banking.Api.MicroRabbit.Banking.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

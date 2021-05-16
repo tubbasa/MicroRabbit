@@ -1,0 +1,17 @@
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.deps.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.runtimeconfig.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.runtimeconfig.dev.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csprojAssemblyReference.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.AssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csproj.CopyComplete
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.genruntimeconfig.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb

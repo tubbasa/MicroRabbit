@@ -1,0 +1,12 @@
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.deps.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.csprojAssemblyReference.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.AssemblyInfoInputs.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.AssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.csproj.CoreCompileInputs.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.csproj.CopyComplete
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infastructue.Bus.pdb

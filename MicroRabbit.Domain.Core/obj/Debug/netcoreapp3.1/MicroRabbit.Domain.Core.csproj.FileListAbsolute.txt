@@ -1,0 +1,9 @@
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.deps.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.AssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
