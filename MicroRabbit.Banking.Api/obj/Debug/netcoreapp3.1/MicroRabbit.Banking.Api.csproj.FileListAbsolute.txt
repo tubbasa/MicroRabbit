@@ -79,3 +79,11 @@
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb

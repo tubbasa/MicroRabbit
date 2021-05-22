@@ -7,3 +7,6 @@
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.csproj.CopyComplete

@@ -17,7 +17,14 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/MicroRabbit.Infrastructure.IOC.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/MicroRabbit.Infrastructure.IOC.csproj"
+          },
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -28,6 +35,24 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
+      "dependencies": {
+        "MediatR": {
+          "target": "Package",
+          "version": "[9.0.0, )"
+        },
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[9.0.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[5.0.2, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[6.1.4, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

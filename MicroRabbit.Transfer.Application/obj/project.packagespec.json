@@ -17,7 +17,14 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+          },
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

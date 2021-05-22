@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Hn+nxHZqaDbbqm74cOR49BW7bE7r3VdSYIefLjy1sELFYaWCEVaDJDMnfB4HBloiP5bOMjT0wnGDSMCmf7So6w==",
+  "dgSpecHash": "g7OlpfjajWyb1YN64rz3tXS5dAU3aEOX7GM04bdYFiPT4Mc37A9uLQRHea1/xcty+QwqK2N72g3bDwBsqC/64A==",
   "success": true,
   "projectFilePath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/tuba.saday/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

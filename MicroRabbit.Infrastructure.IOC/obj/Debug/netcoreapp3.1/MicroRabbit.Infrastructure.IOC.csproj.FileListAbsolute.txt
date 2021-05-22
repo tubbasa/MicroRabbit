@@ -18,3 +18,9 @@
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Aplication.pdb
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infrastructure.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb

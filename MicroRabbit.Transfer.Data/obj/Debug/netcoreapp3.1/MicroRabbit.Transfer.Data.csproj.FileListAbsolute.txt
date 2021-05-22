@@ -7,3 +7,11 @@
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
 /Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.runtimeconfig.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.runtimeconfig.dev.json
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csproj.CopyComplete
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.genruntimeconfig.cache
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb

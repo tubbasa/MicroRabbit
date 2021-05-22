@@ -29,6 +29,15 @@
           },
           "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/MicroRabbit.Infastructue.Bus.csproj": {
             "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Infastructue.Bus/MicroRabbit.Infastructue.Bus.csproj"
+          },
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj"
+          },
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj"
+          },
+          "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj": {
+            "projectPath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
           }
         }
       }
